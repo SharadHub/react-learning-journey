@@ -1,6 +1,6 @@
 # React Learning Journey 🚀
 
-## Day 1 (Date: YYYY-MM-DD)
+## Day 1
 ### What I Learned
 - Installed VS Code, Git, and set up GitHub repo
 - Learned about repo structure and .gitignore
