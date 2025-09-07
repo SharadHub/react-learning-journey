@@ -5,7 +5,8 @@ function App() {
   return (
     <div>
       <h1 className="text-blue-400">Hello</h1>
-      <Compo/>
+      {/* <a href="" src = {}></a> */}
+      <Compo user="Thomas Shelby" email="bishalbista737@gmail.com" age={22}/>
     </div>
   );
 }
